@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from pytest import approx
 import pytest
 
